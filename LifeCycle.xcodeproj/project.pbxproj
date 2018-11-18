@@ -12,6 +12,7 @@
 		73959CF621A10CFC0042AE30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73959CF421A10CFC0042AE30 /* Main.storyboard */; };
 		73959CF821A10CFD0042AE30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73959CF721A10CFD0042AE30 /* Assets.xcassets */; };
 		73959CFB21A10CFD0042AE30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73959CF921A10CFD0042AE30 /* LaunchScreen.storyboard */; };
+		73959D0321A1156B0042AE30 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73959D0221A1156B0042AE30 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		73959CF721A10CFD0042AE30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73959CFA21A10CFD0042AE30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73959CFC21A10CFD0042AE30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73959D0221A1156B0042AE30 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				73959CF021A10CFC0042AE30 /* AppDelegate.swift */,
 				73959CF221A10CFC0042AE30 /* ViewController.swift */,
+				73959D0221A1156B0042AE30 /* SecondViewController.swift */,
 				73959CF421A10CFC0042AE30 /* Main.storyboard */,
 				73959CF721A10CFD0042AE30 /* Assets.xcassets */,
 				73959CF921A10CFD0042AE30 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73959D0321A1156B0042AE30 /* SecondViewController.swift in Sources */,
 				73959CF321A10CFC0042AE30 /* ViewController.swift in Sources */,
 				73959CF121A10CFC0042AE30 /* AppDelegate.swift in Sources */,
 			);
